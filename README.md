@@ -52,9 +52,6 @@
 </p>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=so00905&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Soyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=so00905&show_icons=true&theme=dracula&count_private=true)
-
 <br />
 <br />
 <br />
